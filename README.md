@@ -21,4 +21,7 @@ This project is an end-to-end machine learning application that predicts calorie
 1. Install dependencies:
    pip install -r requirements.txt
 2. Run:
+
    streamlit run app.py
+   ## 🌐 Live Demo
+   https://smart-diet-calorie-predictor-im76hels8qoan2bnocyrqm.streamlit.app/
